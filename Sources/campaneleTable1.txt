@@ -1,0 +1,44 @@
+Sample_Code,Location,Density,Thermal_Conductivity,Diffusivity,Specific_Heat
+1,Sottomarina (Italy),1413.4,0.242,0.217,1.11
+2,Dubai desert (UAE),1604.5,0.267,0.219,1.22
+3,La Digue (Seychelles),1585.2,0.267,0.208,1.28
+4,Tahaa (French Polynesia),1213.4,0.192,0.203,0.95
+5,Moorea (French Polynesia),1412.8,0.218,0.173,1.26
+6,Raivavae (French Polynesia),1049.9,0.172,0.195,0.88
+7,Cayo Levisa (Cuba),1358.0,0.200,0.184,1.09
+8,Maupiti (French Polynesia),1435.0,0.211,0.177,1.19
+9,Lifou (New Caledonia),1440.4,0.224,0.192,1.17
+10,Rangiroa (French Polynesia),1087.1,0.196,0.198,0.99
+11,Perenthian Island (Malaysia),1401.4,0.225,0.197,1.15
+12,Big island green beach (Hawaii),1945.7,0.320,0.229,1.40
+13,Big Island (Hawaii),1377.7,0.208,0.197,1.20
+14,Maui (Hawaii),1603.5,0.269,0.204,1.32
+15,Kauai (Hawaii),1532.6,0.243,0.186,1.30
+16,Big Island (Hawaii),1442.2,0.236,0.217,1.09
+17,Oahu (Hawaii),1220.3,0.201,0.181,1.11
+18,Maui (Hawaii),1548.1,0.255,0.198,1.29
+19,Kauai (Hawaii),1512.5,0.236,0.192,1.23
+20,Long Island (Bahamas),1212.0,0.184,0.169,1.09
+21,Mauritius,1693.8,0.265,0.194,1.37
+22,Praslin (Seychelles),1528.8,0.251,0.214,1.17
+23,Ischia (Italia),1577.6,0.264,0.260,1.02
+24,Desert (China),1652.3,0.290,0.261,1.11
+25,Medjumbe island (Mozambique),1058.5,0.172,0.201,0.86
+26,Samoa,1520.4,0.237,0.185,1.28
+27,Black beach (Samoa),1400.7,0.205,0.235,0.87
+28,Palau,1424.3,0.218,0.184,1.19
+29,Zanzibar (Tanzania),1568.7,0.276,0.240,1.15
+30,Tonga,1384.2,0.207,0.176,1.18
+31,Bolivia,1445.2,0.233,0.203,1.15
+32,Bahamas,1655.3,0.275,0.195,1.41
+33,Nosy Iranja (Madagascar),1400.3,0.224,0.200,1.12
+34,Zanzibar (Tanzania),1598.3,0.282,0.225,1.25
+35,New Zealand,1506.7,0.253,0.216,1.17
+36,Nosy Be (Madagascar),1448.7,0.225,0.190,1.19
+37,Bolivia,1417.4,0.256,0.235,1.09
+38,Tonga,1473.4,0.222,0.181,1.23
+39,Pinnacle desert (Australia),1529.6,0.316,0.282,1.12
+40,Desert (Australia),1630.3,0.322,0.270,1.19
+41,Desert (Australia),1583.2,0.335,0.277,1.21
+42,Beach (Australia),1653.7,0.337,0.290,1.16
+43,Australia,1592.4,0.310,0.252,1.23
